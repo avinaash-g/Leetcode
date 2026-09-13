@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avinaash-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0523-continuous-subarray-sum](https://github.com/avinaash-g/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinaash-g/Leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinaash-g/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/avinaash-g/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/avinaash-g/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinaash-g/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/avinaash-g/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinaash-g/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/avinaash-g/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/avinaash-g/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinaash-g/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/avinaash-g/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinaash-g/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -35,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/avinaash-g/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/avinaash-g/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/avinaash-g/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
