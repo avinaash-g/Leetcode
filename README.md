@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avinaash-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0523-continuous-subarray-sum](https://github.com/avinaash-g/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinaash-g/Leetcode/tree/master/0525-contiguous-array) |
+| [0763-partition-labels](https://github.com/avinaash-g/Leetcode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinaash-g/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avinaash-g/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avinaash-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0763-partition-labels](https://github.com/avinaash-g/Leetcode/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avinaash-g/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avinaash-g/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/avinaash-g/Leetcode/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/avinaash-g/Leetcode/tree/master/0763-partition-labels) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/avinaash-g/Leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/avinaash-g/Leetcode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
