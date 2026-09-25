@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/avinaash-g/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinaash-g/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/avinaash-g/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/avinaash-g/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/avinaash-g/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/avinaash-g/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avinaash-g/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/avinaash-g/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/avinaash-g/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinaash-g/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinaash-g/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/avinaash-g/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avinaash-g/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/avinaash-g/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0763-partition-labels](https://github.com/avinaash-g/Leetcode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
@@ -128,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinaash-g/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/avinaash-g/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/avinaash-g/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
