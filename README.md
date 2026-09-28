@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avinaash-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/avinaash-g/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/avinaash-g/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinaash-g/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/avinaash-g/Leetcode/tree/master/0409-longest-palindrome) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avinaash-g/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/avinaash-g/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/avinaash-g/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/avinaash-g/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinaash-g/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinaash-g/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/avinaash-g/Leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/avinaash-g/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/avinaash-g/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avinaash-g/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/avinaash-g/Leetcode/tree/master/0056-merge-intervals) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/avinaash-g/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/avinaash-g/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/avinaash-g/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinaash-g/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
