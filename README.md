@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avinaash-g/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/avinaash-g/Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinaash-g/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/avinaash-g/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/avinaash-g/Leetcode/tree/master/0049-group-anagrams) |
@@ -133,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/avinaash-g/Leetcode/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/avinaash-g/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/avinaash-g/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0763-partition-labels](https://github.com/avinaash-g/Leetcode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/avinaash-g/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/avinaash-g/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/avinaash-g/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/avinaash-g/Leetcode/tree/master/0179-largest-number) |
